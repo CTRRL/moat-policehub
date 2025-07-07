@@ -1,6 +1,6 @@
 fx_version "cerulean"
 
-description "Epic store made Police Hub. Developer: moat"
+description "Developer: moat"
 author "Project Error"
 version '2.0'
 
